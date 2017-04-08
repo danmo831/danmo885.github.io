@@ -1,0 +1,55 @@
+p{
+.zoodefinition
+	border-style: dotted;
+}
+h1{border-style: inset;
+	border-width: 20pt;
+border-color:#32CD32;
+}
+
+h2{text-decoration: underline;
+font-family: arial;
+font-style: italic;
+}
+
+body{background-image: url(http://cdn01.androidauthority.net/wp-content/uploads/2015/11/00-best-backgrounds-and-wallpaper-apps-for-android.jpg);
+color: white;
+width: 80%;
+}
+
+li.fish{
+text-decoration: underline;
+	padding: 10px 10px 10px 10px;
+	margin: 20px 0px 0px 0px;
+}
+
+li.mammal{
+	font-weight: bold;
+	margin: 0px 20px 0px 20px;
+}
+
+li.bird{
+	font-style: italic;
+	margin: 15px 0px 10px 0px;
+}
+
+/*This is a comment. Below are IDs using hashtags. */
+
+#slothy{
+	color: blue
+}
+
+#canary{
+	color: purple
+}
+
+body{
+	margin: 50px 50px 50px 50px;
+}
+
+p{
+	padding: 5px 0px 0px 5px;
+	width: 50px;
+	text-align: center;
+}
+
